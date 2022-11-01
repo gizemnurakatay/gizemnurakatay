@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a **Math Teacher**
 
-- 🌱 I’m currently learning **İOS Swift,Python, SQL, Shift**
+- 🌱 I’m currently learning **İOS Swift **
 
 
 <h3 align="left">Connect with me:</h3>
