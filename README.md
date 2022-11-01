@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Gizem</h1>
-<h3 align="center">I live in İstanbul, Turkey. I graduated from Eskişehir Osmangazi University, Department of Mathematics and Computer.I'm a math teacher at high school for 5 years and i am interested in İOS Swift for 7 months..</h3>
+<h3 align="center">I live in İstanbul, Turkey. I graduated from Eskişehir Osmangazi University, Department of Mathematics and Computer.I'm a math teacher at high school for 5 years and i am interested in İOS Swift for 7 months🚀</h3>
 
 - 🔭 I’m currently working as a **Math Teacher**
 
